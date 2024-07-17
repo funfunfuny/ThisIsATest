@@ -1,4 +1,4 @@
 {
-    "test": "true"
-    
+    "test": "true",
+    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False"
 }
